@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-<a href="https://www.github.com/syd2" target="_blank" rel="noreferrer"></a>
+<a href="https://www.github.com/syd2/" target="_blank" rel="noreferrer"></a>
  </p>
