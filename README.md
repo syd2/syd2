@@ -51,3 +51,9 @@ I am interested in
 ## 👨‍💻 Favorite languages
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="50" height="50" alt="Go" /></a>
+
+<br>
+
+<p align="center">
+<a href="https://www.github.com/syd2" target="_blank" rel="noreferrer"></a>
+ </p>
