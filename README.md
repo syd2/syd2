@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am a software developer and student, currently into backend web dev but diving into mobile dev soon.
+### I am a software developer and student, currently into fullstack web dev.
 
 ## 🔭 I am interested in
 - Learning more about devops
