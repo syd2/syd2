@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am a software engineer and student, currently into fullstack development.
+I am a software engineer and student, currently into fullstack development.
 
 ## 🔭 I am interested in
 - more devops and cloud computing
