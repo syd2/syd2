@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 a software engineer student, currently into fullstack development.
 
 ## 🔭 I am interested in
-- more devops and cloud computing
-- Web3
-- Machine Learning and robotics
+- more devops 
 - Modern AI technologies
 
 ## 👨‍💻 technologies I use
